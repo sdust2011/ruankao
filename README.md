@@ -17,101 +17,99 @@
     </tr>
     <tr>
         <td rowspan="3">2009年</td>    
-        <td>[2009年系统架构师考试科目一：综合知识.pdf](https://github.com/xxlllq/2018_system_architect/blob/master/2009%E5%B9%B4/2009%E5%B9%B4%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E8%80%83%E8%AF%95%E7%A7%91%E7%9B%AE%E4%B8%80%EF%BC%9A%E7%BB%BC%E5%90%88%E7%9F%A5%E8%AF%86.pdf)</td>  
+        <td>2009年系统架构师考试科目一：综合知识.pdf</td>  
     </tr>
     <tr>
-        <td>[2009年系统架构师考试科目二：案例分析.pdf](https://github.com/xxlllq/2018_system_architect/blob/master/2009%E5%B9%B4/2009%E5%B9%B4%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E8%80%83%E8%AF%95%E7%A7%91%E7%9B%AE%E4%BA%8C%EF%BC%9A%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90.pdf)</td>  
+        <td>2009年系统架构师考试科目二：案例分析.pdf</td>  
     </tr>
  <tr>
-        <td>[2009年系统架构师考试综合版.pdf](https://github.com/xxlllq/2018_system_architect/blob/master/2009%E5%B9%B4/2009%E5%B9%B4%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E8%80%83%E8%AF%95%E7%BB%BC%E5%90%88%E7%89%88.pdf)</td>  
+        <td>2009年系统架构师考试综合版.pdf</td>  
     </tr>
 
  <tr>
         <td rowspan="3">2010年</td>    
-        <td>[2010年系统架构师考试科目一：综合知识.pdf](https://github.com/xxlllq/2018_system_architect/blob/master/2010%E5%B9%B4/2010%E5%B9%B4%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E8%80%83%E8%AF%95%E7%A7%91%E7%9B%AE%E4%B8%80%EF%BC%9A%E7%BB%BC%E5%90%88%E7%9F%A5%E8%AF%86.pdf)</td>  
+        <td>2010年系统架构师考试科目一：综合知识.pdf</td>  
     </tr>
     <tr>
-        <td>[2010年系统架构师考试科目二：案例分析.pdf](https://github.com/xxlllq/2018_system_architect/blob/master/2010%E5%B9%B4/2010%E5%B9%B4%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E8%80%83%E8%AF%95%E7%A7%91%E7%9B%AE%E4%BA%8C%EF%BC%9A%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90.pdf)</td>  
+        <td>2010年系统架构师考试科目二：案例分析.pdf</td>  
     </tr>
  <tr>
-        <td>[2010年系统架构师考试综合版.pdf](https://github.com/xxlllq/2018_system_architect/blob/master/2010%E5%B9%B4/2010%E5%B9%B4%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E8%80%83%E8%AF%95%E7%BB%BC%E5%90%88%E7%89%88.pdf)</td>  
+        <td>2010年系统架构师考试综合版.pdf</td>  
     </tr>
 
  <tr>
         <td rowspan="3">2011年</td>    
-        <td>[2011年系统架构师考试科目一：综合知识.pdf](https://github.com/xxlllq/2018_system_architect/blob/master/2011%E5%B9%B4/2011%E5%B9%B4%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E8%80%83%E8%AF%95%E7%A7%91%E7%9B%AE%E4%B8%80%EF%BC%9A%E7%BB%BC%E5%90%88%E7%9F%A5%E8%AF%86.pdf)</td>  
+        <td>2011年系统架构师考试科目一：综合知识.pdf</td>  
     </tr>
     <tr>
-        <td>[2011年系统架构师考试科目二：案例分析.pdf](https://github.com/xxlllq/2018_system_architect/blob/master/2011%E5%B9%B4/2011%E5%B9%B4%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E8%80%83%E8%AF%95%E7%A7%91%E7%9B%AE%E4%BA%8C%EF%BC%9A%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90.pdf)</td>  
+        <td>2011年系统架构师考试科目二：案例分析.pdf</td>  
     </tr>
  <tr>
-        <td>[2011年系统架构师考试综合版.pdf](https://github.com/xxlllq/2018_system_architect/blob/master/2011%E5%B9%B4/2011%E5%B9%B4%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E8%80%83%E8%AF%95%E7%BB%BC%E5%90%88%E7%89%88.pdf)</td>  
+        <td>2011年系统架构师考试综合版.pdf</td>  
     </tr>
 
  <tr>
         <td rowspan="3">2012年</td>    
-        <td>[2012年系统架构师考试科目一：综合知识.pdf](https://github.com/xxlllq/2018_system_architect/blob/master/2012%E5%B9%B4/2012%E5%B9%B4%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E8%80%83%E8%AF%95%E7%A7%91%E7%9B%AE%E4%B8%80%EF%BC%9A%E7%BB%BC%E5%90%88%E7%9F%A5%E8%AF%86.pdf)</td>  
+        <td>2012年系统架构师考试科目一：综合知识.pdf</td>  
     </tr>
     <tr>
-        <td>[2012年系统架构师考试科目二：案例分析.pdf](https://github.com/xxlllq/2018_system_architect/blob/master/2012%E5%B9%B4/2012%E5%B9%B4%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E8%80%83%E8%AF%95%E7%A7%91%E7%9B%AE%E4%BA%8C%EF%BC%9A%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90.pdf)</td>  
+        <td>2012年系统架构师考试科目二：案例分析.pdf</td>  
     </tr>
  <tr>
-        <td>[2012年系统架构师考试综合版.pdf](https://github.com/xxlllq/2018_system_architect/blob/master/2012%E5%B9%B4/2012%E5%B9%B4%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E8%80%83%E8%AF%95%E7%BB%BC%E5%90%88%E7%89%88.pdf)</td>  
+        <td>2012年系统架构师考试综合版.pdf</td>  
     </tr>
 
  <tr>
         <td rowspan="3">2013年</td>    
-        <td>[2013年系统架构师考试科目一：综合知识.pdf](https://github.com/xxlllq/2018_system_architect/blob/master/2013%E5%B9%B4/2013%E5%B9%B4%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E8%80%83%E8%AF%95%E7%A7%91%E7%9B%AE%E4%B8%80%EF%BC%9A%E7%BB%BC%E5%90%88%E7%9F%A5%E8%AF%86.pdf)</td>  
+        <td>2013年系统架构师考试科目一：综合知识.pdf</td>  
     </tr>
     <tr>
-        <td>[2013年系统架构师考试科目二：案例分析.pdf](https://github.com/xxlllq/2018_system_architect/blob/master/2013%E5%B9%B4/2013%E5%B9%B4%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E8%80%83%E8%AF%95%E7%A7%91%E7%9B%AE%E4%BA%8C%EF%BC%9A%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90.pdf)</td>  
+        <td>2013年系统架构师考试科目二：案例分析.pdf</td>  
     </tr>
  <tr>
-        <td>[2013年系统架构师考试综合版.pdf](https://github.com/xxlllq/2018_system_architect/blob/master/2013%E5%B9%B4/2013%E5%B9%B4%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E8%80%83%E8%AF%95%E7%BB%BC%E5%90%88%E7%89%88.pdf)</td>  
+        <td>2013年系统架构师考试综合版.pdf</td>  
     </tr>
 
  <tr>
         <td rowspan="3">2014年</td>    
-        <td>[2014年系统架构师考试科目一：综合知识.pdf](https://github.com/xxlllq/2018_system_architect/blob/master/2014%E5%B9%B4/2014%E5%B9%B4%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E8%80%83%E8%AF%95%E7%A7%91%E7%9B%AE%E4%B8%80%EF%BC%9A%E7%BB%BC%E5%90%88%E7%9F%A5%E8%AF%86.pdf)</td>  
+        <td>2014年系统架构师考试科目一：综合知识.pdf</td>  
     </tr>
     <tr>
-        <td>[2014年系统架构师考试科目二：案例分析.pdf](https://github.com/xxlllq/2018_system_architect/blob/master/2014%E5%B9%B4/2014%E5%B9%B4%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E8%80%83%E8%AF%95%E7%A7%91%E7%9B%AE%E4%BA%8C%EF%BC%9A%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90.pdf)</td>  
+        <td>2014年系统架构师考试科目二：案例分析.pdf</td>  
     </tr>
  <tr>
-        <td>[2014年系统架构师考试综合版.pdf](https://github.com/xxlllq/2018_system_architect/blob/master/2014%E5%B9%B4/2014%E5%B9%B4%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E8%80%83%E8%AF%95%E7%BB%BC%E5%90%88%E7%89%88.pdf)</td>  
+        <td>2014年系统架构师考试综合版.pdf</td>  
     </tr>
 
  <tr>
         <td rowspan="3">2015年</td>    
-        <td>[2015年系统架构师考试科目一：综合知识.pdf](https://github.com/xxlllq/2018_system_architect/blob/master/2015%E5%B9%B4/2015%E5%B9%B4%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E8%80%83%E8%AF%95%E7%A7%91%E7%9B%AE%E4%B8%80%EF%BC%9A%E7%BB%BC%E5%90%88%E7%9F%A5%E8%AF%86.pdf)</td>  
+        <td>2015年系统架构师考试科目一：综合知识.pdf</td>  
     </tr>
     <tr>
-        <td>[2015年系统架构师考试科目二：案例分析.pdf](https://github.com/xxlllq/2018_system_architect/blob/master/2015%E5%B9%B4/2015%E5%B9%B4%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E8%80%83%E8%AF%95%E7%A7%91%E7%9B%AE%E4%BA%8C%EF%BC%9A%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90.pdf)</td>  
+        <td>2015年系统架构师考试科目二：案例分析.pdf</td>  
     </tr>
  <tr>
-        <td>[2015年系统架构师考试综合版.pdf](https://github.com/xxlllq/2018_system_architect/blob/master/2015%E5%B9%B4/2015%E5%B9%B4%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E8%80%83%E8%AF%95%E7%BB%BC%E5%90%88%E7%89%88.pdf)</td>  
+        <td>2015年系统架构师考试综合版.pdf</td>  
     </tr>
 
  <tr>
         <td rowspan="3">2016年</td>    
-        <td>[2016年系统架构师考试科目一：综合知识.pdf](https://github.com/xxlllq/2018_system_architect/blob/master/2016%E5%B9%B4/2016%E5%B9%B4%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E8%80%83%E8%AF%95%E7%A7%91%E7%9B%AE%E4%B8%80%EF%BC%9A%E7%BB%BC%E5%90%88%E7%9F%A5%E8%AF%86.pdf)</td>  
+        <td>2016年系统架构师考试科目一：综合知识.pdf</td>  
     </tr>
     <tr>
-        <td>[2016年系统架构师考试科目二：案例分析.pdf](https://github.com/xxlllq/2018_system_architect/blob/master/2016%E5%B9%B4/2016%E5%B9%B4%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E8%80%83%E8%AF%95%E7%A7%91%E7%9B%AE%E4%BA%8C%EF%BC%9A%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90.pdf)</td>  
+        <td>2016年系统架构师考试科目二：案例分析.pdf</td>  
     </tr>
  <tr>
-        <td>[2016年系统架构师考试综合版.pdf](https://github.com/xxlllq/2018_system_architect/blob/master/2016%E5%B9%B4/2016%E5%B9%B4%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E8%80%83%E8%AF%95%E7%BB%BC%E5%90%88%E7%89%88.pdf)</td>  
-    </tr>
-
+        <td>2016年系统架构师考试综合版.pdf</td>  
+    </tr> 
  <tr>
         <td rowspan="3">2017年</td>    
-        <td>[2017年系统架构师考试科目一：综合知识.pdf](https://github.com/xxlllq/2018_system_architect/blob/master/2017%E5%B9%B4/2017%E5%B9%B4%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E8%80%83%E8%AF%95%E7%A7%91%E7%9B%AE%E4%B8%80%EF%BC%9A%E7%BB%BC%E5%90%88%E7%9F%A5%E8%AF%86.pdf)</td>  
+        <td>2017年系统架构师考试科目一：综合知识.pdf</td>  
     </tr>
     <tr>
-        <td>[2017年系统架构师考试科目二：案例分析.pdf](https://github.com/xxlllq/2018_system_architect/blob/master/2017%E5%B9%B4/2017%E5%B9%B4%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E8%80%83%E8%AF%95%E7%A7%91%E7%9B%AE%E4%BA%8C%EF%BC%9A%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90.pdf)</td>  
+        <td>2017年系统架构师考试科目二：案例分析.pdf</td>  
     </tr>
  <tr>
-        <td>[2017年系统架构师考试综合版.pdf](https://github.com/xxlllq/2018_system_architect/blob/master/2017%E5%B9%B4/2017%E5%B9%B4%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E8%80%83%E8%AF%95%E7%BB%BC%E5%90%88%E7%89%88.pdf)</td>  
+        <td>2017年系统架构师考试综合版.pdf</td>  
     </tr>
 </table>
-- 
