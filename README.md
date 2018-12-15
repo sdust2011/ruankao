@@ -113,3 +113,10 @@
         <td>2017年系统架构师考试综合版.pdf</td>  
     </tr>
 </table>
+
+- **教学视频**
+[百度网盘](https://pan.baidu.com/s/1TvqcDRmdgaMQqpzgXAPDRA)
+
+- **教学书籍**
+[系统架构设计师教程（第4版）-带目录.pdf](https://pan.baidu.com/s/1TvqcDRmdgaMQqpzgXAPDRA)
+
