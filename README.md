@@ -1,4 +1,4 @@
-# 系统架构设计师复习资料
+# :100:系统架构设计师复习资料
 
 2018/12/14查询成绩后知道自己通过了系统架构设计师的考试（每科满分75，及格45分），特地记录一下。最终的成绩如下： 
 <div align="center"><img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/result.png" width=400 /></div>
