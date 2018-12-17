@@ -118,3 +118,5 @@
 - **教学书籍**
 [系统架构设计师教程（第4版）-带目录.pdf](https://pan.baidu.com/s/1TvqcDRmdgaMQqpzgXAPDRA)
 
+
+- 如有课程资源不明白的地方，可以咨询作者
