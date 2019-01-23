@@ -119,4 +119,4 @@
 [系统架构设计师教程（第4版）-带目录.pdf](https://pan.baidu.com/s/1TvqcDRmdgaMQqpzgXAPDRA)
 
 
-- 如有课程资源不明白的地方，可通过邮箱 **1101464221@qq.com** 咨询作者
+- 如有课程资源不明白的地方，可直接 **Issue**提问或通过邮箱**xxlllq@qq.com** 咨询作者
