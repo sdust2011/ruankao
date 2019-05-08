@@ -1,7 +1,10 @@
 # :100:系统架构设计师复习资料
 
 2018年12月14日查询成绩后知道自己通过了系统架构设计师的考试（每科满分75，及格45分），特地记录一下。最终的成绩如下： 
-<div align="center"><img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/result.png" width=400 /></div>
+<div align="center">
+  <kbd><img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/result.png" width=400 />
+    </kbd>
+   </div>
 
 我是在2018年9月份决定报名参加系统架构设计师考试，主要是想借此机会督促自己学习些除工作外的知识。准备了2个月，复习时间为周末，复习方式为看教学视频和真题练习。现将相关复习资料整理如下（涵盖历年真题和教学视频），欢迎各位分享给其他需要此课程资源的朋友：
 
