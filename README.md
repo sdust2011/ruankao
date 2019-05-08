@@ -21,4 +21,4 @@
 
 此答题卡为信息系统项目管理师答题卡示例，与系统架构设计师答题卡类似，系统架构设计师论文有四道可供选择，答题时填涂相应的题号即可。
 
-- 如有课程资源不明白的地方，可直接 [**Issues**](https://github.com/xxlllq/2018_system_architect/issues) 提问或通过邮箱**xxlllq@qq.com** 咨询作者
+- 如有课程资源不明白的地方，可直接 [**Issues**](https://github.com/xxlllq/2018_system_architect/issues) 提问或通过QQ**1101464221** 、邮箱**xxlllq@qq.com** 咨询作者
