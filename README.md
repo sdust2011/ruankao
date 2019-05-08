@@ -11,6 +11,8 @@
 <div align="center"><img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/years.png"/></div>
 
 - **下载方式**
+
+下载资料的操作方式如下图所示：
 <div align="center">
  <kbd>
  <img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/download.png" width=400 />
