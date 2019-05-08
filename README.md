@@ -11,9 +11,12 @@
 <div align="center"><img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/years.png"/></div>
 
 - **下载方式**
-<kbd>
-<div align="center"><img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/download.png" width=400 /></div>
-</kbd>
+<div align="center">
+ <kbd>
+ <img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/download.png" width=400 />
+ </kbd> 
+ </div>
+
 
 - **教学视频**
 [百度网盘](https://github.com/xxlllq/2018_system_architect/issues/1)
