@@ -39,5 +39,5 @@
 
 - 作者会实时更新历年真题资料，如有课程资源不明白的地方，可直接 [**Issues**](https://github.com/xxlllq/2018_system_architect/issues) 提问或通过QQ：**1101464221** 、邮箱：**xxlllq@qq.com** 联系作者。
 
-- QQ交流群
+-  QQ交流群
 746552968
