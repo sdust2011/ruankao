@@ -27,7 +27,7 @@
 
 
 - **教学视频**
-[系统架构师视频教程](https://github.com/xxlllq/2018_system_architect/issues/1)
+[系统架构师视频教程](https://github.com/xxlllq/2018_system_architect/issues/1)，[视频在线播放地址](https://www.bilibili.com/video/av59116559)
 
 - **教学书籍**
 [系统架构设计师教程（第4版）-带目录.pdf](https://pan.baidu.com/s/1TvqcDRmdgaMQqpzgXAPDRA)
