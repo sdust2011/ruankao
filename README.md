@@ -31,26 +31,11 @@
 
 - **教学书籍**
 [相关教材，提取码5xec](https://pan.baidu.com/s/1n9DCpbHrRvg6O_i7QQNlBw)
-<table style="text-align: center">
- <tr>
-        <td>系统架构设计师教程（希赛第4版）.pdf</td>    
-    </tr>
-    <tr>
-        <td>系统架构设计师教程（清华版本）.pdf</td>  
-    </tr>
-    <tr>
-        <td>系统架构设计师考试32小时通关.pdf</td>  
-    </tr>
-     <tr>
-        <td>系统架构设计师考试考点突破、案例分析、试题实战一本通.pdf</td>  
-    </tr>
- <tr>
-        <td>系统架构设计师考试全程指导（精简版）.pdf</td>  
-    </tr>
-   <tr>
-        <td>系统架构设计师考试全程指导（2009年第1版）.pdf</td>  
-    </tr>
-  </table>
+教材列表如下：
+<div align="center">
+   <kbd><img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/books.png"/>
+      </kbd>
+  </div>
 
 
 - **论文答题卡**
