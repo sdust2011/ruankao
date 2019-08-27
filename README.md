@@ -20,7 +20,7 @@
 [网盘地址](https://github.com/xxlllq/2018_system_architect/issues/1)，[在线播放地址](https://www.bilibili.com/video/av59116559)
 
 - **教学书籍**
-[相关教材，提取码5xec](https://pan.baidu.com/s/1n9DCpbHrRvg6O_i7QQNlBw)
+[提取码5xec](https://pan.baidu.com/s/1n9DCpbHrRvg6O_i7QQNlBw)
 
 教材列表如下：
 <div align="center">
