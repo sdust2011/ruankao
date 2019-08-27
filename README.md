@@ -30,7 +30,7 @@
 
 
 - **论文答题卡**
-[论文答题卡示例，提取码v3j3](https://pan.baidu.com/s/1QESTrB1mFbaUTUukufKshA)
+[提取码v3j3](https://pan.baidu.com/s/1QESTrB1mFbaUTUukufKshA)
 
 此答题卡为信息系统项目管理师答题卡示例，与系统架构设计师答题卡类似，系统架构设计师论文有四道可供选择，答题时填涂相应的题号即可。
 
