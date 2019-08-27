@@ -16,16 +16,6 @@
       </kbd>
   </div>
 
-- **下载方式**
-
-可一键下载本资源的压缩包，操作方式如下图所示：
-<div align="center">
- <kbd>
- <img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/download.png" width=300 />
- </kbd> 
- </div>
-
-
 - **教学视频**
 [网盘地址](https://github.com/xxlllq/2018_system_architect/issues/1)，[在线播放地址](https://www.bilibili.com/video/av59116559)
 
@@ -43,6 +33,15 @@
 [论文答题卡示例，提取码v3j3](https://pan.baidu.com/s/1QESTrB1mFbaUTUukufKshA)
 
 此答题卡为信息系统项目管理师答题卡示例，与系统架构设计师答题卡类似，系统架构设计师论文有四道可供选择，答题时填涂相应的题号即可。
+
+- **下载方式**
+
+可一键下载本资源的压缩包，操作方式如下图所示：
+<div align="center">
+ <kbd>
+ <img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/download.png" width=300 />
+ </kbd> 
+ </div>
 
 - 作者会实时更新历年真题资料，如有课程资源不明白的地方，可直接 [**Issues**](https://github.com/xxlllq/2018_system_architect/issues) 提问或通过QQ：**1101464221** 、邮箱：**xxlllq@qq.com** 联系作者。
 
