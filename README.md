@@ -30,7 +30,28 @@
 [网盘地址](https://github.com/xxlllq/2018_system_architect/issues/1)，[在线播放地址](https://www.bilibili.com/video/av59116559)
 
 - **教学书籍**
-[系统架构设计师教程（第4版）-带目录.pdf](https://pan.baidu.com/s/1TvqcDRmdgaMQqpzgXAPDRA)
+[相关教材，提取码5xec](https://pan.baidu.com/s/1n9DCpbHrRvg6O_i7QQNlBw)
+<table style="text-align: center">
+ <tr>
+        <td>系统架构设计师教程（希赛第4版）.pdf</td>    
+    </tr>
+    <tr>
+        <td>系统架构设计师教程（清华版本）.pdf</td>  
+    </tr>
+    <tr>
+        <td>系统架构设计师考试32小时通关.pdf</td>  
+    </tr>
+     <tr>
+        <td>系统架构设计师考试考点突破、案例分析、试题实战一本通.pdf</td>  
+    </tr>
+ <tr>
+        <td>系统架构设计师考试全程指导（精简版）.pdf</td>  
+    </tr>
+   <tr>
+        <td>系统架构设计师考试全程指导（2009年第1版）.pdf</td>  
+    </tr>
+  </table>
+
 
 - **论文答题卡**
 [论文答题卡示例，提取码v3j3](https://pan.baidu.com/s/1QESTrB1mFbaUTUukufKshA)
