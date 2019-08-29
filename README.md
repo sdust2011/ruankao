@@ -29,10 +29,16 @@
   </div>
 
 
-- **论文答题卡**
-[提取码v3j3](https://pan.baidu.com/s/1QESTrB1mFbaUTUukufKshA)
+- **论文**
+[提取码vbgd](https://pan.baidu.com/s/1A5f4zY1y-9Jh1de1DSA3Ig)
 
-此答题卡为信息系统项目管理师答题卡示例，与系统架构设计师答题卡类似，系统架构设计师论文有四道可供选择，答题时填涂相应的题号即可。
+教材列表如下：
+<div align="center">
+   <kbd><img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/pp.png" width=400 />
+      </kbd>
+  </div>
+  
+其中答题卡为信息系统项目管理师答题卡示例，与系统架构设计师答题卡类似，系统架构设计师论文有四道可供选择，答题时填涂相应的题号即可。
 
 - **下载方式**
 
