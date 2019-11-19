@@ -1,5 +1,4 @@
 # :100:系统架构设计师复习资料【更多教材+视频+论文等资料可加入QQ交流群：746552968，二维码在本文最后】
-## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/xxlllq/system_architect.svg)](https://starchart.cc/xxlllq/system_architect)
 
