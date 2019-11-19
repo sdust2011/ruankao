@@ -22,7 +22,7 @@
 [[网盘地址]](https://github.com/xxlllq/2018_system_architect/issues/1)、[[在线播放地址]](https://www.bilibili.com/video/av66289453)
 
 - **教学书籍**
-[提取码x5ea](https://pan.baidu.com/s/1JeEroXraN6g48DfpgxeYHg)
+[教学书籍](https://github.com/xxlllq/system_architect/issues/4)
 
 教材列表如下：
 <div align="center">
