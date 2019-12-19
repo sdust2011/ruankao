@@ -1,6 +1,11 @@
 # :100:系统架构设计师复习资料【更多教材+视频+论文等资料可加入QQ交流群：746552968，二维码在本文最后】
 
-[![Stargazers over time](https://starchart.cc/xxlllq/system_architect.svg)](https://starchart.cc/xxlllq/system_architect)
+- **2019下半年本群通过率（仅供参考）**
+<div align="center">
+ <kbd>
+ <img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/群通过率/2019下半年/通过率.png" width=400 />
+ </kbd> 
+ </div>
 
 2018年12月14日查询成绩后知道自己通过了系统架构设计师的考试（每科满分75，及格45分），特地记录一下。最终的成绩如下： 
 <div align="center">
