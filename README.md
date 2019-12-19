@@ -8,7 +8,8 @@
  </div>
  
 
-- **介绍**
+- **本库说明**
+
 2018年12月14日查询成绩后知道自己通过了系统架构设计师的考试（每科满分75，及格45分），特地记录一下。最终的成绩如下： 
 <div align="center">
   <kbd><img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/result.png" width=400 />
