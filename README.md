@@ -61,7 +61,7 @@
 
 - 作者会实时更新备考资料，如有课程资源不明白的地方，可直接 [**Issues**](https://github.com/xxlllq/2018_system_architect/issues) 提问或通过QQ：**1101464221** 、邮箱：**xxlllq@qq.com** 联系作者。
 
--  更多教材、视频、论文等资料，可加入QQ交流群746552968（创建于2019/06/21，目前人数：1531）查看： 
+-  更多教材、视频、论文等资料，可加入QQ交流群746552968（创建于2019/06/21，目前人数：1603）查看： 
 <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=f205298d78e7a6a749bf60a7b66b432abf0aab3a2b6c5b070eb5b7da39d13ef2"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="系统架构设计师交流群" title="系统架构设计师交流群"></a>
 <div align="center">
  <kbd>
